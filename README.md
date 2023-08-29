@@ -7,5 +7,6 @@
   - Components
   - Routing
   - Forms
+  - ngfor
 
  
